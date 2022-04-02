@@ -1,1 +1,8 @@
-@import "~bootstrap/dist/css/bootstrap.css";
+.parallax {
+  background-image: url('https://cdn.pixabay.com/photo/2015/06/24/15/45/computer-820281_960_720.jpg');
+  min-height: 400px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
